@@ -1,1 +1,1 @@
-# DataStricturesCourse
+# DataStructuresCourse
