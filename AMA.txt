@@ -1,0 +1,32 @@
+Vstuplenie
+Today we are going to tell you about our project "ProjectName".
+It's augmented-reality mobile app that helps its users to make your
+building more attractive for townspeople and potentional customers.
+-So, how can it help you?
+-It compares appearence of your facade with the most attactive examples 
+and tries to apply the most valued elements on your facade.
+The only thing you need tot do is direct our camera on facade . 
+Then you will see facade which was offered you by the app.
+New facade will be shown in real time, so you need just move your camera to
+see the most pretty image of your facade.
+
+Who is our target?
+There are 3 categories of people, who would like to use our app.
+The first category is business owner.
+They have to know that hood design of 
+a facade can attract new customers, and new customers mean more profit.
+The second category - urban-design studios.
+The app helps users to see like their fasade will look in the future. It also can help to avoid argues with the client. App will proove to 
+the client that your design is better and you don't need to make any edits.
+App can count attraction by information, collected in its databases.
+The third category is city administrations.
+If you are a mayor of the city or you can influent on desicions of city
+administration and you care about image of your city you can save some money
+of city budget by making some parts of designer's work cheaper.
+
+The Urgency of the Problem
+Design code is actively integrated in many cities. It helps to make 
+streets have one style which increases business attractiveness and 
+creates comfortable city enviroment. Furthermore Izhevsk was chosen to be 
+the capital of design in Russia. The own design code is being developed in the
+city. So, it give some guarantees of relevance of our app in the future.
